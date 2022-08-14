@@ -1,5 +1,4 @@
-package Assignment2;
-
+//Assignment 2.0
 
 import java.util.ArrayList;
 import java.util.Scanner;
