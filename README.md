@@ -1,6 +1,6 @@
 # Assignment2
-One of the best feature that I have improved is asking for dynamically the number of player who are gonna play the game.
-And I ahve implemented Menu class which is having four options:-
+One of the best feature that I have improvised is asking for dynamically the number of player who are gonna play the game.
+And I have implemented Menu class which is having four options:-
 1. To start the game
 2. To get the previous winners status
 3. To play the game again ( This whole menu is running continous through infinite while loop)
